@@ -21,3 +21,5 @@ var uniqueLetterString = function (s) {
   }
   return result;
 };
+
+console.log(uniqueLetterString("ABC"));
